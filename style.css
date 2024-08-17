@@ -1,0 +1,62 @@
+
+#box{
+
+    border: 2px solid rgb(249, 249, 249);
+    border-radius: 10px;
+ 
+    
+}
+
+
+.button{
+         
+    text-align: center;
+    width: 100px;
+    height: 100px;
+    border: 2px solid white;
+    margin-top: 50px;
+    display: inline-block;
+
+}
+
+
+.big{
+      
+    
+    background-color: rgb(0, 0, 0);
+    margin-top: 60px;
+    margin-left: 500px;
+     width: 500px;
+     height: 600px;
+     border: 2px solid rgb(7, 7, 7) ;
+     border-radius: 10px;
+}
+
+
+#grey{
+    background-color: rgb(96, 90, 95);
+    
+}
+#pink{
+    background-color: rgb(237, 12, 204);
+    
+}
+
+#purple{
+    background-color: purple;
+    
+}
+#red{
+    background-color: rgb(203, 15, 15);
+   
+}
+
+
+.canvas{
+
+    margin: 100px auto 100px;
+    width: 80%;
+    text-align: center;
+    color: aliceblue;
+    
+}
