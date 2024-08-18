@@ -16,9 +16,6 @@ HTML/CSS: Basic theme switching can be implemented using CSS variables or classe
 JavaScript: More dynamic color scheme switchers use JavaScript to toggle classes or change CSS variables based on user interaction. JavaScript can also handle storing the user's preference in local storage.
 
 --- 
-Here is link : https://divyanshu-code.github.io/-Color-scheme-switcher/
-
---- 
 # Example
 
 Imagine a website with a default light color scheme. The color scheme switcher would allow users to click a button or toggle to switch to a dark mode, instantly changing the background color to dark, the text color to light, and adjusting other elements like buttons, links, and headers to match the new scheme.
